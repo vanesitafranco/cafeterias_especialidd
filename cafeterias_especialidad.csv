@@ -1,0 +1,1009 @@
+ID_Venta,Sede,Metodo_Extraccion,Variedad,Precio_Taza,Cantidad,Calificacion_Cliente,Tipo_Grano
+ORD-1001,Medellín,Chemex,Caturra,,2,4.2,Medio
+ORD-1002,Bogotá,Chemex,Bourbon,11000.0,5,4.0,Medio
+ORD-1003,Armenia,Chemex,Caturra,6500.0,3,4.0,Claro
+ORD-1004,Bogotá,Chemex,Bourbon,6500.0,3,5.0,Medio
+ORD-1005,Bogotá,Espresso,Geisha,8500.0,5,4.8,Medio
+ORD-1006,Pereira,Espresso,Castillo,12500.0,3,4.2,Claro
+ORD-1007,Armenia,Aeropress,Geisha,8500.0,4,3.5,Medio
+ORD-1008,Armenia,V60,Castillo,8500.0,2,4.2,Medio
+ORD-1009,Armenia,Chemex,Castillo,6500.0,1,4.5,Oscuro
+ORD-1010,Bogotá,Aeropress,Castillo,9500.0,5,4.2,Claro
+ORD-1011,Medellín,V60,Geisha,11000.0,4,4.8,Oscuro
+ORD-1012,Armenia,Prensa Francesa,Castillo,7500.0,1,,Oscuro
+ORD-1013,Bogotá,Espresso,Geisha,11000.0,1,4.0,Oscuro
+ORD-1014,Pereira,V60,Caturra,,5,4.2,Medio
+ORD-1015,Medellín,Prensa Francesa,Bourbon,7500.0,4,4.2,Medio
+ORD-1016,Pereira,V60,Bourbon,8500.0,1,4.2,Oscuro
+ORD-1017,Medellín,Espresso,Castillo,7500.0,1,4.0,Oscuro
+ORD-1018,Bogotá,Espresso,Geisha,11000.0,4,3.5,Oscuro
+ORD-1019,Manizales,Aeropress,Bourbon,8500.0,3,5.0,Medio
+ORD-1020,Medellín,Chemex,Geisha,9500.0,1,4.2,Oscuro
+ORD-1021,Pereira,V60,Geisha,11000.0,2,4.2,Oscuro
+ORD-1022,Bogotá,V60,Castillo,7500.0,4,,Claro
+ORD-1023,Medellín,Prensa Francesa,Bourbon,12500.0,1,4.8,Claro
+ORD-1024,Manizales,Espresso,Castillo,8500.0,5,3.5,Medio
+ORD-1025,Manizales,V60,Castillo,6500.0,2,4.5,Claro
+ORD-1026,Armenia,Espresso,Bourbon,9500.0,1,4.2,Claro
+ORD-1027,Armenia,V60,Bourbon,11000.0,2,4.8,Claro
+ORD-1028,Pereira,Aeropress,Caturra,7500.0,2,4.8,Medio
+ORD-1029,Medellín,Chemex,Caturra,12500.0,3,4.5,Claro
+ORD-1030,Medellín,V60,Geisha,12500.0,2,4.2,Medio
+ORD-1031,Armenia,Espresso,Bourbon,7500.0,3,4.8,Oscuro
+ORD-1032,Medellín,Aeropress,Caturra,,4,3.5,Claro
+ORD-1033,Medellín,V60,Geisha,6500.0,3,4.0,Medio
+ORD-1034,Manizales,Prensa Francesa,Geisha,7500.0,5,4.2,Claro
+ORD-1035,Armenia,Chemex,Geisha,6500.0,1,3.5,Oscuro
+ORD-1036,Bogotá,V60,Caturra,12500.0,4,4.0,Medio
+ORD-1037,Armenia,Aeropress,Bourbon,9500.0,4,4.8,Medio
+ORD-1038,Bogotá,Prensa Francesa,Castillo,6500.0,5,,Medio
+ORD-1039,Manizales,Aeropress,Geisha,8500.0,3,4.2,Oscuro
+ORD-1040,Pereira,Aeropress,Caturra,9500.0,1,4.0,Oscuro
+ORD-1041,Medellín,Prensa Francesa,Caturra,6500.0,3,4.0,Oscuro
+ORD-1042,Manizales,Aeropress,Castillo,12500.0,2,4.0,Medio
+ORD-1043,Medellín,Prensa Francesa,Castillo,11000.0,3,3.0,Oscuro
+ORD-1044,Pereira,V60,Caturra,8500.0,4,,Claro
+ORD-1045,Pereira,Prensa Francesa,Bourbon,,1,4.0,Oscuro
+ORD-1046,Manizales,Prensa Francesa,Castillo,8500.0,3,4.2,Medio
+ORD-1047,Pereira,Chemex,Caturra,,1,3.0,Claro
+ORD-1048,Bogotá,Prensa Francesa,Castillo,9500.0,1,5.0,Oscuro
+ORD-1049,Pereira,Prensa Francesa,Bourbon,9500.0,2,4.8,Claro
+ORD-1050,Medellín,V60,Geisha,6500.0,2,,Claro
+ORD-1051,Medellín,Chemex,Castillo,12500.0,4,4.8,Medio
+ORD-1052,Medellín,Espresso,Bourbon,8500.0,5,4.2,Claro
+ORD-1053,Medellín,V60,Caturra,6500.0,1,4.0,Claro
+ORD-1054,Bogotá,V60,Castillo,6500.0,5,4.5,Medio
+ORD-1055,Armenia,Espresso,Castillo,8500.0,4,4.2,Medio
+ORD-1056,Manizales,Prensa Francesa,Caturra,8500.0,1,4.5,Medio
+ORD-1057,Medellín,Aeropress,Geisha,9500.0,1,3.0,Claro
+ORD-1058,Pereira,Chemex,Caturra,12500.0,5,3.5,Claro
+ORD-1059,Medellín,Aeropress,Castillo,6500.0,3,4.5,Claro
+ORD-1060,Pereira,Espresso,Caturra,9500.0,2,4.5,Medio
+ORD-1061,Pereira,V60,Bourbon,6500.0,3,4.8,Oscuro
+ORD-1062,Medellín,V60,Caturra,12500.0,5,3.5,Claro
+ORD-1063,Bogotá,Chemex,Castillo,11000.0,2,4.5,Oscuro
+ORD-1064,Pereira,V60,Caturra,8500.0,3,4.0,Medio
+ORD-1065,Pereira,V60,Geisha,9500.0,2,3.5,Claro
+ORD-1066,Medellín,Chemex,Caturra,7500.0,1,4.2,Oscuro
+ORD-1067,Pereira,Chemex,Geisha,8500.0,3,4.0,Claro
+ORD-1068,Pereira,Espresso,Bourbon,11000.0,2,4.0,Claro
+ORD-1069,Medellín,V60,Geisha,8500.0,2,4.2,Claro
+ORD-1070,Medellín,V60,Caturra,7500.0,2,4.0,Oscuro
+ORD-1071,Manizales,Espresso,Castillo,8500.0,3,3.5,Medio
+ORD-1072,Bogotá,Prensa Francesa,Geisha,11000.0,4,3.5,Claro
+ORD-1073,Bogotá,Prensa Francesa,Bourbon,7500.0,3,4.0,Medio
+ORD-1074,Pereira,Prensa Francesa,Geisha,6500.0,5,3.5,Medio
+ORD-1075,Bogotá,Espresso,Geisha,9500.0,3,4.5,Oscuro
+ORD-1076,Pereira,V60,Geisha,11000.0,2,4.0,Oscuro
+ORD-1077,Manizales,Espresso,Bourbon,6500.0,1,4.0,Medio
+ORD-1078,Medellín,Espresso,Caturra,7500.0,3,4.2,Claro
+ORD-1079,Medellín,Prensa Francesa,Geisha,6500.0,3,4.5,Oscuro
+ORD-1080,Medellín,Aeropress,Geisha,7500.0,2,5.0,Claro
+ORD-1081,Bogotá,V60,Castillo,8500.0,1,4.8,Claro
+ORD-1082,Manizales,Prensa Francesa,Bourbon,9500.0,1,4.8,Claro
+ORD-1083,Bogotá,Aeropress,Geisha,9500.0,5,4.2,Medio
+ORD-1084,Bogotá,Aeropress,Bourbon,9500.0,3,4.5,Claro
+ORD-1085,Manizales,Chemex,Geisha,7500.0,1,4.5,Medio
+ORD-1086,Manizales,V60,Caturra,11000.0,1,4.0,Medio
+ORD-1087,Manizales,Aeropress,Caturra,8500.0,4,4.0,Claro
+ORD-1088,Manizales,Prensa Francesa,Geisha,,4,4.0,Claro
+ORD-1089,Medellín,Chemex,Caturra,9500.0,1,,Claro
+ORD-1090,Armenia,V60,Geisha,6500.0,5,4.5,Claro
+ORD-1091,Armenia,Espresso,Caturra,9500.0,1,4.8,Medio
+ORD-1092,Manizales,Prensa Francesa,Castillo,7500.0,2,4.2,Claro
+ORD-1093,Armenia,Aeropress,Castillo,9500.0,3,4.2,Claro
+ORD-1094,Armenia,Aeropress,Castillo,6500.0,5,3.5,Medio
+ORD-1095,Manizales,Prensa Francesa,Bourbon,6500.0,2,4.0,Oscuro
+ORD-1096,Armenia,Aeropress,Bourbon,12500.0,5,4.8,Oscuro
+ORD-1097,Bogotá,Chemex,Castillo,7500.0,2,4.5,Medio
+ORD-1098,Pereira,V60,Bourbon,11000.0,3,4.2,Oscuro
+ORD-1099,Pereira,Chemex,Caturra,7500.0,3,4.8,Medio
+ORD-1100,Manizales,Aeropress,Geisha,9500.0,4,4.0,Claro
+ORD-1101,Medellín,Espresso,Geisha,9500.0,2,,Claro
+ORD-1102,Manizales,V60,Geisha,8500.0,4,4.2,Oscuro
+ORD-1103,Medellín,V60,Castillo,7500.0,2,4.2,Claro
+ORD-1104,Pereira,Prensa Francesa,Bourbon,7500.0,4,4.2,Oscuro
+ORD-1105,Manizales,Prensa Francesa,Caturra,6500.0,3,3.5,Oscuro
+ORD-1106,Bogotá,Espresso,Caturra,7500.0,5,3.5,Claro
+ORD-1107,Armenia,V60,Castillo,9500.0,4,4.5,Claro
+ORD-1108,Medellín,Espresso,Caturra,,2,5.0,Oscuro
+ORD-1109,Armenia,Prensa Francesa,Caturra,12500.0,2,4.8,Claro
+ORD-1110,Armenia,Prensa Francesa,Caturra,11000.0,3,3.5,Medio
+ORD-1111,Manizales,V60,Caturra,11000.0,2,4.5,Claro
+ORD-1112,Armenia,Chemex,Bourbon,9500.0,1,3.5,Claro
+ORD-1113,Bogotá,Aeropress,Caturra,7500.0,5,3.0,Medio
+ORD-1114,Armenia,Prensa Francesa,Geisha,12500.0,4,4.5,Claro
+ORD-1115,Manizales,Prensa Francesa,Castillo,9500.0,5,4.5,Claro
+ORD-1116,Bogotá,Chemex,Bourbon,8500.0,3,3.5,Oscuro
+ORD-1117,Pereira,Chemex,Caturra,6500.0,4,3.0,Claro
+ORD-1118,Armenia,Espresso,Bourbon,8500.0,4,,Claro
+ORD-1119,Manizales,Espresso,Caturra,8500.0,1,3.0,Medio
+ORD-1120,Pereira,Aeropress,Geisha,12500.0,3,4.2,Oscuro
+ORD-1121,Pereira,Aeropress,Castillo,8500.0,2,4.5,Oscuro
+ORD-1122,Medellín,V60,Caturra,7500.0,1,3.5,Oscuro
+ORD-1123,Bogotá,Espresso,Caturra,,1,4.0,Claro
+ORD-1124,Armenia,Prensa Francesa,Caturra,6500.0,5,4.2,Oscuro
+ORD-1125,Manizales,Espresso,Caturra,8500.0,5,4.8,Medio
+ORD-1126,Medellín,Prensa Francesa,Castillo,6500.0,5,4.5,Oscuro
+ORD-1127,Bogotá,Chemex,Castillo,9500.0,1,4.5,Medio
+ORD-1128,Medellín,Espresso,Geisha,12500.0,2,,Oscuro
+ORD-1129,Bogotá,Chemex,Castillo,7500.0,4,4.8,Oscuro
+ORD-1130,Bogotá,Aeropress,Caturra,12500.0,5,4.2,Medio
+ORD-1131,Armenia,Aeropress,Geisha,7500.0,2,4.2,Oscuro
+ORD-1132,Bogotá,V60,Geisha,12500.0,3,4.5,Oscuro
+ORD-1133,Medellín,Espresso,Geisha,11000.0,5,4.5,Oscuro
+ORD-1134,Bogotá,Chemex,Caturra,11000.0,4,4.5,Claro
+ORD-1135,Armenia,Prensa Francesa,Bourbon,6500.0,3,4.5,Medio
+ORD-1136,Armenia,Aeropress,Caturra,,3,3.0,Oscuro
+ORD-1137,Medellín,Aeropress,Castillo,9500.0,4,4.2,Medio
+ORD-1138,Pereira,Prensa Francesa,Castillo,7500.0,5,4.0,Medio
+ORD-1139,Pereira,Chemex,Caturra,11000.0,1,3.5,Medio
+ORD-1140,Bogotá,Chemex,Caturra,7500.0,4,3.5,Oscuro
+ORD-1141,Manizales,Espresso,Geisha,12500.0,4,4.5,Oscuro
+ORD-1142,Bogotá,Espresso,Caturra,6500.0,4,4.5,Medio
+ORD-1143,Medellín,V60,Geisha,9500.0,3,4.0,Claro
+ORD-1144,Medellín,Aeropress,Castillo,8500.0,2,4.2,Medio
+ORD-1145,Medellín,Espresso,Geisha,6500.0,1,4.2,Claro
+ORD-1146,Medellín,Chemex,Caturra,7500.0,5,4.0,Medio
+ORD-1147,Medellín,Prensa Francesa,Castillo,6500.0,5,4.5,Medio
+ORD-1148,Armenia,Chemex,Bourbon,8500.0,2,4.8,Medio
+ORD-1149,Pereira,Aeropress,Geisha,7500.0,4,4.8,Oscuro
+ORD-1150,Medellín,Chemex,Castillo,8500.0,1,4.5,Claro
+ORD-1151,Manizales,V60,Geisha,7500.0,5,4.5,Claro
+ORD-1152,Manizales,Aeropress,Castillo,7500.0,5,3.5,Medio
+ORD-1153,Manizales,Prensa Francesa,Castillo,9500.0,4,4.0,Oscuro
+ORD-1154,Manizales,V60,Geisha,6500.0,2,3.5,Oscuro
+ORD-1155,Armenia,Aeropress,Bourbon,12500.0,1,,Claro
+ORD-1156,Manizales,Prensa Francesa,Castillo,12500.0,2,3.5,Oscuro
+ORD-1157,Medellín,V60,Castillo,9500.0,2,4.0,Claro
+ORD-1158,Bogotá,V60,Castillo,8500.0,1,5.0,Claro
+ORD-1159,Manizales,Aeropress,Bourbon,12500.0,1,,Claro
+ORD-1160,Armenia,Espresso,Bourbon,6500.0,5,4.8,Oscuro
+ORD-1161,Armenia,V60,Caturra,6500.0,5,3.0,Claro
+ORD-1162,Manizales,V60,Geisha,7500.0,1,3.0,Claro
+ORD-1163,Bogotá,Prensa Francesa,Bourbon,11000.0,3,4.2,Medio
+ORD-1164,Manizales,Chemex,Geisha,6500.0,5,3.5,Claro
+ORD-1165,Armenia,Aeropress,Caturra,8500.0,3,3.0,Claro
+ORD-1166,Pereira,Aeropress,Geisha,,1,4.2,Medio
+ORD-1167,Medellín,Espresso,Bourbon,12500.0,5,,Medio
+ORD-1168,Armenia,Espresso,Geisha,8500.0,2,4.2,Oscuro
+ORD-1169,Manizales,Aeropress,Bourbon,6500.0,1,4.5,Claro
+ORD-1170,Medellín,Espresso,Geisha,11000.0,4,4.5,Oscuro
+ORD-1171,Manizales,Prensa Francesa,Bourbon,8500.0,3,4.0,Oscuro
+ORD-1172,Manizales,Aeropress,Bourbon,6500.0,1,4.5,Medio
+ORD-1173,Pereira,Espresso,Geisha,6500.0,1,4.0,Oscuro
+ORD-1174,Medellín,Aeropress,Caturra,12500.0,5,3.5,Claro
+ORD-1175,Medellín,Chemex,Castillo,9500.0,5,4.8,Medio
+ORD-1176,Pereira,V60,Caturra,11000.0,5,3.5,Claro
+ORD-1177,Armenia,Aeropress,Geisha,12500.0,4,,Claro
+ORD-1178,Manizales,V60,Caturra,8500.0,5,4.0,Medio
+ORD-1179,Bogotá,Espresso,Bourbon,8500.0,1,4.5,Claro
+ORD-1180,Manizales,V60,Castillo,8500.0,5,4.2,Medio
+ORD-1181,Manizales,Aeropress,Geisha,7500.0,2,3.5,Claro
+ORD-1182,Armenia,Chemex,Geisha,8500.0,5,3.0,Medio
+ORD-1183,Manizales,Espresso,Geisha,11000.0,4,4.5,Oscuro
+ORD-1184,Pereira,Aeropress,Castillo,9500.0,2,4.8,Claro
+ORD-1185,Pereira,Espresso,Bourbon,12500.0,1,4.8,Medio
+ORD-1186,Medellín,Prensa Francesa,Geisha,8500.0,1,4.2,Claro
+ORD-1187,Bogotá,V60,Caturra,9500.0,3,4.8,Claro
+ORD-1188,Manizales,Prensa Francesa,Geisha,9500.0,2,4.5,Claro
+ORD-1189,Manizales,Aeropress,Geisha,8500.0,3,4.8,Medio
+ORD-1190,Armenia,Chemex,Geisha,9500.0,2,4.2,Oscuro
+ORD-1191,Pereira,Espresso,Geisha,7500.0,2,4.5,Oscuro
+ORD-1192,Bogotá,V60,Bourbon,8500.0,4,4.8,Oscuro
+ORD-1193,Medellín,Espresso,Caturra,6500.0,3,4.2,Medio
+ORD-1194,Pereira,Aeropress,Bourbon,7500.0,4,4.8,Oscuro
+ORD-1195,Medellín,Espresso,Caturra,8500.0,2,4.5,Medio
+ORD-1196,Armenia,V60,Geisha,9500.0,1,4.0,Claro
+ORD-1197,Armenia,Aeropress,Castillo,,2,3.0,Claro
+ORD-1198,Manizales,Espresso,Bourbon,9500.0,4,4.2,Oscuro
+ORD-1199,Bogotá,Chemex,Castillo,9500.0,3,4.5,Medio
+ORD-1200,Medellín,Aeropress,Bourbon,8500.0,3,4.8,Claro
+ORD-1201,Pereira,Aeropress,Geisha,9500.0,4,3.5,Medio
+ORD-1202,Armenia,Chemex,Bourbon,6500.0,3,4.8,Medio
+ORD-1203,Manizales,Prensa Francesa,Geisha,7500.0,5,5.0,Claro
+ORD-1204,Manizales,V60,Bourbon,7500.0,1,4.0,Medio
+ORD-1205,Medellín,Prensa Francesa,Geisha,8500.0,1,5.0,Claro
+ORD-1206,Armenia,Espresso,Geisha,6500.0,1,,Claro
+ORD-1207,Bogotá,Chemex,Caturra,6500.0,3,4.8,Claro
+ORD-1208,Armenia,Prensa Francesa,Geisha,7500.0,3,4.8,Medio
+ORD-1209,Medellín,Aeropress,Caturra,,2,,Claro
+ORD-1210,Medellín,Espresso,Geisha,7500.0,2,4.5,Medio
+ORD-1211,Armenia,Espresso,Castillo,8500.0,1,4.2,Claro
+ORD-1212,Medellín,Prensa Francesa,Geisha,6500.0,5,4.8,Claro
+ORD-1213,Armenia,Prensa Francesa,Castillo,9500.0,2,4.5,Oscuro
+ORD-1214,Pereira,Chemex,Castillo,7500.0,2,4.5,Oscuro
+ORD-1215,Armenia,V60,Geisha,7500.0,3,4.0,Oscuro
+ORD-1216,Armenia,Prensa Francesa,Castillo,8500.0,5,4.8,Medio
+ORD-1217,Medellín,Prensa Francesa,Caturra,6500.0,1,3.5,Medio
+ORD-1218,Medellín,Aeropress,Bourbon,6500.0,2,,Claro
+ORD-1219,Manizales,Espresso,Geisha,7500.0,5,4.2,Claro
+ORD-1220,Manizales,V60,Castillo,6500.0,5,3.5,Claro
+ORD-1221,Pereira,Aeropress,Geisha,6500.0,1,4.2,Claro
+ORD-1222,Manizales,Chemex,Caturra,7500.0,5,3.0,Medio
+ORD-1223,Armenia,Chemex,Geisha,11000.0,5,4.5,Claro
+ORD-1224,Medellín,Prensa Francesa,Geisha,8500.0,5,,Claro
+ORD-1225,Manizales,Prensa Francesa,Castillo,8500.0,2,4.8,Oscuro
+ORD-1226,Manizales,Chemex,Caturra,7500.0,1,3.5,Claro
+ORD-1227,Pereira,Prensa Francesa,Bourbon,,5,3.5,Claro
+ORD-1228,Pereira,V60,Bourbon,7500.0,5,4.8,Claro
+ORD-1229,Armenia,Prensa Francesa,Castillo,6500.0,2,,Medio
+ORD-1230,Medellín,Espresso,Geisha,9500.0,1,4.2,Oscuro
+ORD-1231,Pereira,Prensa Francesa,Castillo,6500.0,3,4.2,Claro
+ORD-1232,Manizales,Aeropress,Castillo,7500.0,2,4.2,Claro
+ORD-1233,Medellín,V60,Castillo,8500.0,1,5.0,Oscuro
+ORD-1234,Medellín,Aeropress,Geisha,12500.0,5,4.5,Claro
+ORD-1235,Manizales,Aeropress,Caturra,8500.0,1,4.0,Medio
+ORD-1236,Pereira,Espresso,Castillo,9500.0,1,4.0,Claro
+ORD-1237,Manizales,V60,Geisha,,1,5.0,Medio
+ORD-1238,Medellín,V60,Caturra,6500.0,3,3.0,Medio
+ORD-1239,Bogotá,V60,Castillo,7500.0,1,4.2,Claro
+ORD-1240,Bogotá,V60,Bourbon,7500.0,3,4.5,Oscuro
+ORD-1241,Armenia,V60,Caturra,8500.0,5,3.5,Medio
+ORD-1242,Manizales,Espresso,Castillo,8500.0,3,3.5,Oscuro
+ORD-1243,Manizales,Prensa Francesa,Caturra,12500.0,5,4.8,Claro
+ORD-1244,Armenia,Aeropress,Caturra,9500.0,5,5.0,Medio
+ORD-1245,Armenia,V60,Caturra,9500.0,3,4.8,Claro
+ORD-1246,Armenia,Prensa Francesa,Caturra,7500.0,2,5.0,Oscuro
+ORD-1247,Medellín,Prensa Francesa,Caturra,11000.0,4,4.5,Claro
+ORD-1248,Manizales,Aeropress,Caturra,,1,4.8,Claro
+ORD-1249,Medellín,Espresso,Castillo,11000.0,4,4.2,Medio
+ORD-1250,Armenia,Chemex,Bourbon,6500.0,1,4.5,Claro
+ORD-1251,Manizales,Chemex,Geisha,9500.0,1,,Claro
+ORD-1252,Medellín,Prensa Francesa,Caturra,6500.0,5,4.0,Claro
+ORD-1253,Medellín,Aeropress,Geisha,7500.0,1,4.2,Medio
+ORD-1254,Armenia,Chemex,Castillo,6500.0,1,4.2,Oscuro
+ORD-1255,Manizales,Prensa Francesa,Caturra,9500.0,3,3.5,Oscuro
+ORD-1256,Armenia,Espresso,Bourbon,9500.0,4,3.5,Claro
+ORD-1257,Manizales,Chemex,Geisha,6500.0,3,4.8,Medio
+ORD-1258,Bogotá,Prensa Francesa,Caturra,7500.0,1,,Claro
+ORD-1259,Pereira,Prensa Francesa,Castillo,8500.0,5,4.2,Oscuro
+ORD-1260,Pereira,V60,Bourbon,7500.0,3,3.5,Medio
+ORD-1261,Pereira,Espresso,Geisha,6500.0,3,3.5,Oscuro
+ORD-1262,Armenia,V60,Geisha,8500.0,2,5.0,Oscuro
+ORD-1263,Bogotá,Aeropress,Caturra,11000.0,1,4.2,Medio
+ORD-1264,Manizales,V60,Bourbon,6500.0,5,4.2,Medio
+ORD-1265,Medellín,V60,Bourbon,6500.0,3,4.2,Claro
+ORD-1266,Manizales,Chemex,Bourbon,7500.0,3,4.2,Claro
+ORD-1267,Medellín,Prensa Francesa,Bourbon,,5,4.2,Oscuro
+ORD-1268,Manizales,Espresso,Castillo,9500.0,1,5.0,Medio
+ORD-1269,Bogotá,V60,Bourbon,9500.0,2,4.5,Medio
+ORD-1270,Medellín,Espresso,Geisha,7500.0,3,4.5,Claro
+ORD-1271,Armenia,V60,Geisha,8500.0,2,4.2,Oscuro
+ORD-1272,Manizales,Aeropress,Castillo,6500.0,4,4.8,Oscuro
+ORD-1273,Manizales,V60,Geisha,9500.0,1,4.5,Claro
+ORD-1274,Medellín,Chemex,Geisha,12500.0,4,3.5,Medio
+ORD-1275,Armenia,Prensa Francesa,Bourbon,9500.0,4,4.5,Claro
+ORD-1276,Armenia,Aeropress,Geisha,12500.0,4,4.0,Claro
+ORD-1277,Bogotá,V60,Castillo,9500.0,1,4.8,Claro
+ORD-1278,Armenia,Espresso,Bourbon,6500.0,1,4.2,Claro
+ORD-1279,Armenia,Aeropress,Caturra,12500.0,5,,Medio
+ORD-1280,Armenia,Aeropress,Bourbon,6500.0,2,3.5,Claro
+ORD-1281,Pereira,V60,Castillo,8500.0,2,4.8,Medio
+ORD-1282,Bogotá,Aeropress,Bourbon,6500.0,5,4.5,Claro
+ORD-1283,Manizales,Espresso,Bourbon,6500.0,5,4.8,Oscuro
+ORD-1284,Medellín,Aeropress,Castillo,8500.0,4,4.2,Medio
+ORD-1285,Manizales,Espresso,Bourbon,7500.0,5,4.2,Oscuro
+ORD-1286,Bogotá,V60,Castillo,8500.0,3,4.8,Claro
+ORD-1287,Medellín,Prensa Francesa,Castillo,8500.0,2,4.0,Claro
+ORD-1288,Bogotá,Aeropress,Caturra,6500.0,5,4.0,Claro
+ORD-1289,Armenia,Prensa Francesa,Geisha,6500.0,3,4.5,Medio
+ORD-1290,Medellín,Espresso,Geisha,8500.0,3,4.5,Oscuro
+ORD-1291,Armenia,Aeropress,Bourbon,7500.0,3,4.0,Medio
+ORD-1292,Manizales,Chemex,Bourbon,9500.0,3,4.0,Medio
+ORD-1293,Manizales,Prensa Francesa,Caturra,9500.0,4,4.0,Claro
+ORD-1294,Medellín,Aeropress,Caturra,11000.0,3,4.8,Oscuro
+ORD-1295,Medellín,Prensa Francesa,Caturra,9500.0,4,4.5,Claro
+ORD-1296,Bogotá,Aeropress,Castillo,8500.0,4,4.8,Medio
+ORD-1297,Bogotá,V60,Caturra,9500.0,3,,Claro
+ORD-1298,Armenia,Prensa Francesa,Caturra,7500.0,2,4.2,Oscuro
+ORD-1299,Medellín,Chemex,Bourbon,7500.0,3,3.5,Claro
+ORD-1300,Manizales,Chemex,Caturra,11000.0,3,3.0,Oscuro
+ORD-1301,Bogotá,Espresso,Castillo,8500.0,3,4.0,Oscuro
+ORD-1302,Bogotá,Aeropress,Castillo,11000.0,2,,Claro
+ORD-1303,Manizales,Prensa Francesa,Bourbon,11000.0,1,4.5,Medio
+ORD-1304,Bogotá,Espresso,Caturra,12500.0,1,4.0,Claro
+ORD-1305,Armenia,Prensa Francesa,Caturra,12500.0,4,4.2,Medio
+ORD-1306,Medellín,Aeropress,Castillo,8500.0,4,4.5,Medio
+ORD-1307,Manizales,Chemex,Caturra,7500.0,2,4.5,Claro
+ORD-1308,Medellín,V60,Caturra,8500.0,5,4.0,Medio
+ORD-1309,Bogotá,Chemex,Caturra,7500.0,1,,Medio
+ORD-1310,Bogotá,Espresso,Geisha,9500.0,4,4.5,Claro
+ORD-1311,Manizales,V60,Bourbon,9500.0,1,3.5,Claro
+ORD-1312,Armenia,Espresso,Geisha,9500.0,2,5.0,Claro
+ORD-1313,Pereira,Aeropress,Bourbon,7500.0,2,3.5,Medio
+ORD-1314,Manizales,V60,Castillo,6500.0,5,,Oscuro
+ORD-1315,Pereira,Espresso,Caturra,8500.0,5,,Medio
+ORD-1316,Pereira,Aeropress,Bourbon,6500.0,2,4.8,Oscuro
+ORD-1317,Armenia,Chemex,Geisha,12500.0,4,4.8,Claro
+ORD-1318,Pereira,Aeropress,Caturra,7500.0,1,4.2,Oscuro
+ORD-1319,Pereira,Prensa Francesa,Castillo,6500.0,3,,Claro
+ORD-1320,Armenia,Aeropress,Bourbon,6500.0,5,4.5,Claro
+ORD-1321,Pereira,Aeropress,Bourbon,9500.0,3,4.8,Oscuro
+ORD-1322,Pereira,Prensa Francesa,Bourbon,9500.0,4,,Claro
+ORD-1323,Pereira,Espresso,Caturra,7500.0,5,,Oscuro
+ORD-1324,Manizales,Espresso,Geisha,6500.0,3,4.8,Claro
+ORD-1325,Manizales,Aeropress,Geisha,8500.0,4,4.2,Medio
+ORD-1326,Manizales,Prensa Francesa,Bourbon,7500.0,1,,Medio
+ORD-1327,Armenia,Prensa Francesa,Castillo,9500.0,4,4.5,Claro
+ORD-1328,Bogotá,Chemex,Castillo,9500.0,5,,Claro
+ORD-1329,Pereira,Espresso,Geisha,7500.0,2,4.5,Oscuro
+ORD-1330,Pereira,V60,Castillo,7500.0,1,4.2,Medio
+ORD-1331,Armenia,Espresso,Geisha,,3,4.2,Oscuro
+ORD-1332,Pereira,Espresso,Bourbon,8500.0,5,4.5,Claro
+ORD-1333,Manizales,Chemex,Geisha,9500.0,2,4.8,Claro
+ORD-1334,Bogotá,V60,Geisha,6500.0,4,4.2,Oscuro
+ORD-1335,Medellín,Chemex,Bourbon,8500.0,2,4.5,Claro
+ORD-1336,Pereira,V60,Castillo,6500.0,5,4.2,Medio
+ORD-1337,Manizales,Aeropress,Geisha,8500.0,5,4.8,Oscuro
+ORD-1338,Medellín,V60,Geisha,,2,4.2,Medio
+ORD-1339,Bogotá,Chemex,Bourbon,7500.0,4,3.5,Medio
+ORD-1340,Medellín,Espresso,Castillo,6500.0,2,4.0,Medio
+ORD-1341,Manizales,V60,Geisha,6500.0,5,3.5,Oscuro
+ORD-1342,Medellín,V60,Bourbon,7500.0,5,4.2,Claro
+ORD-1343,Armenia,Prensa Francesa,Geisha,6500.0,3,3.5,Medio
+ORD-1344,Medellín,Espresso,Caturra,6500.0,3,3.5,Medio
+ORD-1345,Pereira,Aeropress,Bourbon,11000.0,1,,Medio
+ORD-1346,Pereira,Chemex,Castillo,8500.0,5,5.0,Claro
+ORD-1347,Armenia,Aeropress,Castillo,7500.0,3,4.2,Claro
+ORD-1348,Manizales,Espresso,Castillo,12500.0,2,,Oscuro
+ORD-1349,Pereira,V60,Castillo,6500.0,4,3.0,Claro
+ORD-1350,Bogotá,V60,Geisha,,2,4.5,Oscuro
+ORD-1351,Pereira,Espresso,Geisha,7500.0,4,4.5,Oscuro
+ORD-1352,Pereira,V60,Castillo,12500.0,3,4.2,Oscuro
+ORD-1353,Manizales,V60,Castillo,9500.0,1,4.2,Oscuro
+ORD-1354,Medellín,V60,Castillo,11000.0,2,4.2,Oscuro
+ORD-1355,Pereira,Chemex,Geisha,,2,4.2,Medio
+ORD-1356,Armenia,Chemex,Castillo,7500.0,2,4.8,Claro
+ORD-1357,Medellín,Prensa Francesa,Castillo,,4,3.5,Medio
+ORD-1358,Bogotá,Aeropress,Caturra,7500.0,3,4.0,Oscuro
+ORD-1359,Manizales,Espresso,Caturra,7500.0,2,4.0,Claro
+ORD-1360,Bogotá,Espresso,Castillo,7500.0,2,4.0,Medio
+ORD-1361,Medellín,Espresso,Bourbon,8500.0,1,4.5,Medio
+ORD-1362,Medellín,Prensa Francesa,Castillo,6500.0,1,3.5,Oscuro
+ORD-1363,Medellín,Chemex,Caturra,8500.0,3,5.0,Medio
+ORD-1364,Bogotá,Prensa Francesa,Bourbon,8500.0,3,4.0,Medio
+ORD-1365,Medellín,Espresso,Bourbon,11000.0,5,4.0,Medio
+ORD-1366,Bogotá,Aeropress,Castillo,11000.0,1,4.5,Medio
+ORD-1367,Medellín,V60,Caturra,8500.0,5,3.0,Medio
+ORD-1368,Armenia,Chemex,Caturra,7500.0,4,4.5,Oscuro
+ORD-1369,Medellín,Chemex,Bourbon,7500.0,5,4.5,Oscuro
+ORD-1370,Bogotá,Prensa Francesa,Castillo,6500.0,2,4.0,Medio
+ORD-1371,Pereira,Chemex,Geisha,6500.0,5,3.0,Oscuro
+ORD-1372,Medellín,Espresso,Geisha,7500.0,3,4.2,Oscuro
+ORD-1373,Pereira,Espresso,Caturra,7500.0,4,3.5,Claro
+ORD-1374,Armenia,Prensa Francesa,Geisha,,2,3.5,Medio
+ORD-1375,Manizales,Espresso,Caturra,8500.0,5,4.0,Oscuro
+ORD-1376,Armenia,Aeropress,Caturra,7500.0,4,4.0,Oscuro
+ORD-1377,Medellín,Prensa Francesa,Caturra,8500.0,4,4.5,Medio
+ORD-1378,Pereira,Aeropress,Geisha,6500.0,2,4.5,Claro
+ORD-1379,Pereira,V60,Caturra,8500.0,5,4.5,Medio
+ORD-1380,Bogotá,Aeropress,Bourbon,9500.0,4,3.5,Claro
+ORD-1381,Pereira,V60,Castillo,8500.0,4,4.0,Medio
+ORD-1382,Bogotá,V60,Castillo,8500.0,1,5.0,Medio
+ORD-1383,Manizales,Aeropress,Caturra,,4,4.5,Medio
+ORD-1384,Medellín,Prensa Francesa,Castillo,12500.0,1,5.0,Medio
+ORD-1385,Bogotá,Espresso,Geisha,9500.0,5,4.2,Claro
+ORD-1386,Manizales,Espresso,Geisha,8500.0,5,4.5,Claro
+ORD-1387,Pereira,V60,Castillo,9500.0,5,4.5,Oscuro
+ORD-1388,Pereira,V60,Geisha,7500.0,3,4.2,Medio
+ORD-1389,Manizales,Prensa Francesa,Castillo,7500.0,5,4.2,Claro
+ORD-1390,Pereira,Chemex,Castillo,6500.0,4,4.5,Claro
+ORD-1391,Manizales,Aeropress,Castillo,8500.0,2,4.0,Claro
+ORD-1392,Bogotá,V60,Caturra,8500.0,1,4.2,Medio
+ORD-1393,Bogotá,Espresso,Castillo,7500.0,3,4.8,Oscuro
+ORD-1394,Manizales,Prensa Francesa,Caturra,,5,,Claro
+ORD-1395,Bogotá,Aeropress,Castillo,12500.0,5,4.2,Medio
+ORD-1396,Bogotá,Prensa Francesa,Castillo,9500.0,2,4.2,Claro
+ORD-1397,Bogotá,Aeropress,Castillo,8500.0,2,4.0,Claro
+ORD-1398,Armenia,Aeropress,Geisha,12500.0,3,4.5,Oscuro
+ORD-1399,Medellín,V60,Caturra,6500.0,1,4.2,Claro
+ORD-1400,Pereira,Prensa Francesa,Caturra,11000.0,5,,Claro
+ORD-1401,Armenia,Prensa Francesa,Castillo,6500.0,3,4.2,Medio
+ORD-1402,Bogotá,Espresso,Castillo,11000.0,4,4.2,Medio
+ORD-1403,Manizales,Espresso,Geisha,7500.0,4,4.5,Oscuro
+ORD-1404,Bogotá,V60,Geisha,12500.0,3,4.8,Medio
+ORD-1405,Medellín,V60,Geisha,,5,4.2,Medio
+ORD-1406,Bogotá,Chemex,Caturra,6500.0,3,4.2,Oscuro
+ORD-1407,Manizales,Espresso,Caturra,8500.0,5,,Claro
+ORD-1408,Medellín,Aeropress,Caturra,,2,3.0,Oscuro
+ORD-1409,Bogotá,Prensa Francesa,Castillo,8500.0,3,5.0,Medio
+ORD-1410,Medellín,V60,Caturra,12500.0,5,3.5,Oscuro
+ORD-1411,Pereira,Prensa Francesa,Bourbon,8500.0,3,4.8,Claro
+ORD-1412,Pereira,Prensa Francesa,Bourbon,7500.0,3,4.5,Oscuro
+ORD-1413,Bogotá,Chemex,Geisha,7500.0,5,4.2,Medio
+ORD-1414,Medellín,Espresso,Caturra,7500.0,5,5.0,Medio
+ORD-1415,Manizales,V60,Bourbon,11000.0,1,3.0,Oscuro
+ORD-1416,Bogotá,Prensa Francesa,Geisha,7500.0,3,4.0,Claro
+ORD-1417,Pereira,V60,Caturra,8500.0,4,4.5,Oscuro
+ORD-1418,Pereira,Aeropress,Castillo,8500.0,3,4.2,Claro
+ORD-1419,Bogotá,Chemex,Bourbon,8500.0,3,4.5,Claro
+ORD-1420,Medellín,Aeropress,Castillo,12500.0,5,3.0,Oscuro
+ORD-1421,Pereira,V60,Caturra,,3,3.5,Claro
+ORD-1422,Medellín,V60,Bourbon,8500.0,3,3.5,Medio
+ORD-1423,Pereira,Espresso,Caturra,11000.0,4,4.0,Oscuro
+ORD-1424,Pereira,Prensa Francesa,Castillo,11000.0,5,4.2,Claro
+ORD-1425,Armenia,Prensa Francesa,Bourbon,8500.0,3,4.8,Medio
+ORD-1426,Pereira,Aeropress,Castillo,,2,,Oscuro
+ORD-1427,Manizales,Chemex,Caturra,7500.0,1,4.8,Medio
+ORD-1428,Bogotá,Prensa Francesa,Caturra,6500.0,4,4.0,Medio
+ORD-1429,Bogotá,Espresso,Castillo,12500.0,3,4.2,Medio
+ORD-1430,Medellín,Aeropress,Bourbon,8500.0,2,4.0,Claro
+ORD-1431,Pereira,Aeropress,Castillo,11000.0,3,4.0,Oscuro
+ORD-1432,Manizales,Espresso,Caturra,12500.0,3,4.5,Oscuro
+ORD-1433,Medellín,Chemex,Castillo,6500.0,5,3.5,Claro
+ORD-1434,Armenia,Espresso,Caturra,12500.0,5,4.0,Oscuro
+ORD-1435,Medellín,Chemex,Castillo,8500.0,5,,Medio
+ORD-1436,Medellín,Espresso,Bourbon,8500.0,2,4.2,Oscuro
+ORD-1437,Pereira,Espresso,Bourbon,9500.0,3,4.2,Claro
+ORD-1438,Armenia,V60,Castillo,12500.0,1,3.0,Medio
+ORD-1439,Medellín,Aeropress,Castillo,6500.0,4,4.0,Claro
+ORD-1440,Manizales,Espresso,Bourbon,8500.0,5,5.0,Medio
+ORD-1441,Manizales,Espresso,Caturra,9500.0,5,4.0,Medio
+ORD-1442,Bogotá,Prensa Francesa,Bourbon,9500.0,3,4.2,Oscuro
+ORD-1443,Armenia,Aeropress,Caturra,9500.0,3,3.0,Medio
+ORD-1444,Armenia,Prensa Francesa,Castillo,6500.0,2,4.2,Claro
+ORD-1445,Bogotá,Aeropress,Castillo,7500.0,2,3.0,Oscuro
+ORD-1446,Medellín,Prensa Francesa,Caturra,7500.0,5,4.8,Claro
+ORD-1447,Armenia,Espresso,Castillo,11000.0,3,4.8,Medio
+ORD-1448,Manizales,Espresso,Caturra,7500.0,1,4.8,Claro
+ORD-1449,Manizales,V60,Geisha,7500.0,4,4.0,Claro
+ORD-1450,Pereira,Prensa Francesa,Bourbon,,3,4.8,Medio
+ORD-1451,Armenia,Chemex,Geisha,6500.0,3,4.5,Oscuro
+ORD-1452,Medellín,V60,Caturra,,2,4.2,Claro
+ORD-1453,Bogotá,Prensa Francesa,Bourbon,9500.0,4,4.5,Medio
+ORD-1454,Bogotá,Prensa Francesa,Caturra,11000.0,5,3.0,Oscuro
+ORD-1455,Medellín,V60,Bourbon,7500.0,3,3.5,Oscuro
+ORD-1456,Pereira,Espresso,Bourbon,6500.0,5,4.8,Oscuro
+ORD-1457,Bogotá,Prensa Francesa,Bourbon,9500.0,3,4.0,Claro
+ORD-1458,Armenia,Espresso,Bourbon,11000.0,5,4.5,Claro
+ORD-1459,Pereira,V60,Caturra,9500.0,4,4.2,Claro
+ORD-1460,Armenia,Espresso,Bourbon,6500.0,2,5.0,Oscuro
+ORD-1461,Manizales,Aeropress,Bourbon,11000.0,4,,Claro
+ORD-1462,Pereira,Chemex,Geisha,11000.0,1,5.0,Medio
+ORD-1463,Bogotá,Prensa Francesa,Castillo,9500.0,2,4.0,Claro
+ORD-1464,Pereira,Chemex,Castillo,11000.0,4,4.0,Claro
+ORD-1465,Pereira,Espresso,Geisha,11000.0,1,4.2,Oscuro
+ORD-1466,Pereira,Prensa Francesa,Geisha,9500.0,3,3.0,Claro
+ORD-1467,Pereira,Espresso,Caturra,6500.0,3,3.0,Medio
+ORD-1468,Armenia,Aeropress,Caturra,8500.0,5,4.5,Oscuro
+ORD-1469,Manizales,V60,Caturra,6500.0,2,4.5,Medio
+ORD-1470,Medellín,Prensa Francesa,Geisha,8500.0,3,,Oscuro
+ORD-1471,Pereira,Aeropress,Geisha,8500.0,2,4.0,Oscuro
+ORD-1472,Bogotá,Aeropress,Bourbon,6500.0,3,4.0,Claro
+ORD-1473,Pereira,Prensa Francesa,Caturra,7500.0,5,3.5,Medio
+ORD-1474,Bogotá,Espresso,Caturra,6500.0,4,,Oscuro
+ORD-1475,Armenia,Aeropress,Caturra,11000.0,5,4.8,Claro
+ORD-1476,Bogotá,Chemex,Castillo,,1,4.8,Oscuro
+ORD-1477,Medellín,Aeropress,Bourbon,6500.0,3,,Oscuro
+ORD-1478,Manizales,Espresso,Caturra,,1,4.5,Oscuro
+ORD-1479,Bogotá,Espresso,Caturra,8500.0,1,4.2,Oscuro
+ORD-1480,Bogotá,Chemex,Caturra,7500.0,2,4.2,Oscuro
+ORD-1481,Manizales,Aeropress,Castillo,6500.0,3,4.5,Oscuro
+ORD-1482,Medellín,Espresso,Castillo,8500.0,1,4.2,Claro
+ORD-1483,Pereira,Prensa Francesa,Geisha,11000.0,4,4.2,Oscuro
+ORD-1484,Bogotá,V60,Bourbon,9500.0,1,,Medio
+ORD-1485,Manizales,V60,Geisha,6500.0,4,,Claro
+ORD-1486,Armenia,V60,Bourbon,6500.0,2,4.8,Medio
+ORD-1487,Manizales,Aeropress,Castillo,8500.0,1,4.8,Oscuro
+ORD-1488,Armenia,Chemex,Caturra,7500.0,5,4.5,Medio
+ORD-1489,Medellín,Espresso,Geisha,7500.0,2,4.0,Oscuro
+ORD-1490,Pereira,Prensa Francesa,Caturra,7500.0,4,3.5,Oscuro
+ORD-1491,Manizales,Prensa Francesa,Geisha,11000.0,2,4.5,Claro
+ORD-1492,Bogotá,Aeropress,Castillo,12500.0,1,4.8,Claro
+ORD-1493,Medellín,V60,Castillo,8500.0,3,3.0,Oscuro
+ORD-1494,Manizales,Aeropress,Castillo,12500.0,3,,Claro
+ORD-1495,Bogotá,Chemex,Geisha,7500.0,4,3.5,Medio
+ORD-1496,Manizales,Chemex,Bourbon,8500.0,4,4.0,Claro
+ORD-1497,Armenia,Espresso,Geisha,7500.0,3,4.5,Claro
+ORD-1498,Manizales,Espresso,Bourbon,9500.0,4,4.0,Medio
+ORD-1499,Manizales,Chemex,Geisha,,2,3.5,Claro
+ORD-1500,Manizales,Chemex,Geisha,9500.0,5,4.2,Oscuro
+ORD-1501,Medellín,Chemex,Castillo,7500.0,5,4.8,Medio
+ORD-1502,Manizales,Aeropress,Caturra,9500.0,2,4.2,Oscuro
+ORD-1503,Bogotá,Chemex,Caturra,6500.0,5,4.5,Medio
+ORD-1504,Armenia,Prensa Francesa,Bourbon,12500.0,1,4.5,Oscuro
+ORD-1505,Armenia,V60,Caturra,8500.0,2,3.0,Oscuro
+ORD-1506,Manizales,Chemex,Geisha,8500.0,4,,Claro
+ORD-1507,Medellín,V60,Geisha,8500.0,2,3.0,Oscuro
+ORD-1508,Medellín,Aeropress,Castillo,9500.0,3,,Claro
+ORD-1509,Bogotá,V60,Castillo,6500.0,4,4.5,Medio
+ORD-1510,Manizales,Aeropress,Caturra,9500.0,3,,Oscuro
+ORD-1511,Armenia,Prensa Francesa,Bourbon,7500.0,4,3.5,Oscuro
+ORD-1512,Medellín,Aeropress,Caturra,9500.0,5,4.2,Medio
+ORD-1513,Manizales,Aeropress,Caturra,11000.0,2,4.0,Medio
+ORD-1514,Medellín,Espresso,Caturra,11000.0,1,3.5,Oscuro
+ORD-1515,Medellín,Chemex,Caturra,8500.0,4,4.5,Medio
+ORD-1516,Armenia,Chemex,Geisha,8500.0,4,4.0,Claro
+ORD-1517,Pereira,Prensa Francesa,Bourbon,6500.0,3,4.5,Medio
+ORD-1518,Bogotá,Prensa Francesa,Geisha,11000.0,5,3.5,Medio
+ORD-1519,Bogotá,Chemex,Bourbon,7500.0,3,4.2,Oscuro
+ORD-1520,Armenia,Espresso,Castillo,8500.0,3,4.8,Claro
+ORD-1521,Medellín,Chemex,Caturra,7500.0,5,4.2,Medio
+ORD-1522,Manizales,Espresso,Geisha,6500.0,1,4.5,Claro
+ORD-1523,Medellín,Prensa Francesa,Bourbon,9500.0,3,4.5,Claro
+ORD-1524,Armenia,V60,Castillo,6500.0,3,4.8,Claro
+ORD-1525,Bogotá,Prensa Francesa,Castillo,9500.0,4,4.2,Oscuro
+ORD-1526,Medellín,Prensa Francesa,Caturra,7500.0,5,4.5,Medio
+ORD-1527,Bogotá,Aeropress,Bourbon,6500.0,2,,Oscuro
+ORD-1528,Manizales,Aeropress,Geisha,8500.0,1,4.8,Medio
+ORD-1529,Bogotá,Aeropress,Caturra,6500.0,1,4.2,Medio
+ORD-1530,Bogotá,Aeropress,Geisha,7500.0,5,4.5,Oscuro
+ORD-1531,Pereira,Espresso,Castillo,9500.0,4,4.8,Claro
+ORD-1532,Pereira,Chemex,Geisha,6500.0,4,4.5,Claro
+ORD-1533,Pereira,V60,Geisha,11000.0,5,3.0,Medio
+ORD-1534,Bogotá,Prensa Francesa,Caturra,6500.0,4,4.0,Oscuro
+ORD-1535,Armenia,Espresso,Geisha,7500.0,1,4.8,Claro
+ORD-1536,Bogotá,V60,Caturra,9500.0,1,4.0,Claro
+ORD-1537,Armenia,Espresso,Castillo,7500.0,2,4.8,Medio
+ORD-1538,Armenia,Espresso,Caturra,6500.0,5,4.2,Medio
+ORD-1539,Pereira,Prensa Francesa,Caturra,7500.0,3,4.5,Oscuro
+ORD-1540,Medellín,Chemex,Bourbon,7500.0,3,3.5,Medio
+ORD-1541,Manizales,Aeropress,Geisha,11000.0,2,4.0,Claro
+ORD-1542,Pereira,Chemex,Castillo,7500.0,2,,Claro
+ORD-1543,Pereira,Prensa Francesa,Caturra,11000.0,4,5.0,Claro
+ORD-1544,Medellín,Prensa Francesa,Castillo,12500.0,2,4.5,Claro
+ORD-1545,Manizales,Prensa Francesa,Bourbon,8500.0,2,4.2,Oscuro
+ORD-1546,Bogotá,V60,Geisha,12500.0,3,4.5,Oscuro
+ORD-1547,Bogotá,Chemex,Caturra,7500.0,4,4.5,Medio
+ORD-1548,Pereira,Chemex,Geisha,,2,4.5,Medio
+ORD-1549,Manizales,Espresso,Bourbon,6500.0,2,3.5,Medio
+ORD-1550,Pereira,Espresso,Bourbon,9500.0,4,4.5,Oscuro
+ORD-1551,Armenia,Espresso,Castillo,8500.0,5,4.8,Claro
+ORD-1552,Pereira,Prensa Francesa,Caturra,7500.0,4,,Medio
+ORD-1553,Pereira,Chemex,Castillo,9500.0,3,3.0,Claro
+ORD-1554,Bogotá,Prensa Francesa,Bourbon,9500.0,5,4.8,Medio
+ORD-1555,Bogotá,V60,Geisha,6500.0,1,4.5,Medio
+ORD-1556,Bogotá,Espresso,Castillo,6500.0,4,4.2,Medio
+ORD-1557,Armenia,Prensa Francesa,Castillo,9500.0,3,3.5,Medio
+ORD-1558,Bogotá,Prensa Francesa,Geisha,9500.0,5,4.2,Medio
+ORD-1559,Manizales,V60,Castillo,,4,4.2,Claro
+ORD-1560,Medellín,Aeropress,Geisha,11000.0,2,4.2,Medio
+ORD-1561,Manizales,Chemex,Caturra,,4,4.8,Claro
+ORD-1562,Manizales,Aeropress,Geisha,9500.0,1,4.8,Oscuro
+ORD-1563,Bogotá,Espresso,Caturra,7500.0,4,4.5,Medio
+ORD-1564,Medellín,Prensa Francesa,Geisha,6500.0,5,,Claro
+ORD-1565,Medellín,V60,Bourbon,11000.0,5,4.2,Oscuro
+ORD-1566,Medellín,V60,Bourbon,9500.0,4,4.0,Oscuro
+ORD-1567,Armenia,Chemex,Caturra,6500.0,5,4.5,Oscuro
+ORD-1568,Bogotá,Aeropress,Caturra,7500.0,2,4.0,Claro
+ORD-1569,Medellín,Chemex,Bourbon,,4,4.2,Medio
+ORD-1570,Armenia,Prensa Francesa,Caturra,8500.0,2,4.0,Medio
+ORD-1571,Pereira,Chemex,Geisha,8500.0,2,3.5,Claro
+ORD-1572,Pereira,V60,Geisha,8500.0,3,4.8,Medio
+ORD-1573,Armenia,V60,Bourbon,7500.0,4,4.0,Claro
+ORD-1574,Armenia,Espresso,Castillo,7500.0,5,4.2,Medio
+ORD-1575,Bogotá,Espresso,Geisha,7500.0,2,3.0,Oscuro
+ORD-1576,Bogotá,Prensa Francesa,Caturra,6500.0,3,4.5,Medio
+ORD-1577,Pereira,Aeropress,Castillo,11000.0,4,4.2,Claro
+ORD-1578,Medellín,Chemex,Castillo,8500.0,4,4.8,Claro
+ORD-1579,Pereira,Prensa Francesa,Geisha,11000.0,1,4.2,Oscuro
+ORD-1580,Medellín,Espresso,Geisha,12500.0,1,4.0,Claro
+ORD-1581,Medellín,Chemex,Castillo,7500.0,2,4.5,Medio
+ORD-1582,Bogotá,Espresso,Castillo,9500.0,1,3.5,Medio
+ORD-1583,Manizales,Chemex,Bourbon,8500.0,2,4.2,Oscuro
+ORD-1584,Manizales,Aeropress,Caturra,12500.0,5,4.2,Claro
+ORD-1585,Armenia,Prensa Francesa,Bourbon,7500.0,2,,Oscuro
+ORD-1586,Bogotá,Chemex,Geisha,9500.0,1,3.5,Medio
+ORD-1587,Medellín,V60,Bourbon,9500.0,5,4.5,Oscuro
+ORD-1588,Manizales,V60,Bourbon,7500.0,1,4.0,Claro
+ORD-1589,Medellín,Chemex,Bourbon,6500.0,2,4.2,Oscuro
+ORD-1590,Manizales,Chemex,Bourbon,9500.0,3,4.2,Claro
+ORD-1591,Manizales,Chemex,Caturra,9500.0,4,,Claro
+ORD-1592,Manizales,V60,Caturra,7500.0,1,4.0,Medio
+ORD-1593,Bogotá,V60,Castillo,9500.0,2,3.5,Medio
+ORD-1594,Pereira,Chemex,Geisha,7500.0,5,4.2,Medio
+ORD-1595,Medellín,Espresso,Bourbon,9500.0,1,3.5,Claro
+ORD-1596,Bogotá,Espresso,Castillo,6500.0,1,3.5,Oscuro
+ORD-1597,Bogotá,Aeropress,Castillo,12500.0,4,4.5,Claro
+ORD-1598,Bogotá,Prensa Francesa,Castillo,7500.0,2,3.5,Medio
+ORD-1599,Bogotá,Espresso,Caturra,7500.0,3,3.0,Medio
+ORD-1600,Bogotá,V60,Bourbon,6500.0,5,4.8,Oscuro
+ORD-1601,Armenia,Espresso,Bourbon,6500.0,2,4.2,Medio
+ORD-1602,Medellín,Aeropress,Geisha,8500.0,5,3.5,Medio
+ORD-1603,Bogotá,Aeropress,Bourbon,7500.0,1,4.0,Medio
+ORD-1604,Medellín,Prensa Francesa,Bourbon,11000.0,4,4.5,Oscuro
+ORD-1605,Armenia,Espresso,Castillo,6500.0,4,4.0,Claro
+ORD-1606,Armenia,V60,Geisha,7500.0,3,4.2,Medio
+ORD-1607,Medellín,V60,Bourbon,7500.0,4,3.5,Oscuro
+ORD-1608,Manizales,Chemex,Caturra,6500.0,1,4.5,Medio
+ORD-1609,Pereira,V60,Bourbon,6500.0,3,4.2,Oscuro
+ORD-1610,Manizales,Prensa Francesa,Castillo,8500.0,2,4.5,Medio
+ORD-1611,Manizales,Prensa Francesa,Caturra,8500.0,4,4.8,Oscuro
+ORD-1612,Manizales,V60,Castillo,8500.0,3,4.5,Medio
+ORD-1613,Bogotá,V60,Bourbon,8500.0,1,4.0,Claro
+ORD-1614,Armenia,Chemex,Caturra,8500.0,5,4.0,Medio
+ORD-1615,Manizales,V60,Geisha,6500.0,5,4.2,Oscuro
+ORD-1616,Armenia,Chemex,Geisha,8500.0,1,4.0,Medio
+ORD-1617,Medellín,Chemex,Caturra,,1,4.0,Claro
+ORD-1618,Pereira,V60,Caturra,8500.0,5,4.8,Medio
+ORD-1619,Medellín,Aeropress,Castillo,9500.0,3,4.2,Oscuro
+ORD-1620,Medellín,Aeropress,Caturra,7500.0,5,4.2,Oscuro
+ORD-1621,Bogotá,Chemex,Castillo,11000.0,1,4.5,Claro
+ORD-1622,Pereira,V60,Bourbon,11000.0,4,4.5,Oscuro
+ORD-1623,Medellín,Aeropress,Castillo,8500.0,2,3.5,Medio
+ORD-1624,Medellín,V60,Caturra,,4,4.8,Medio
+ORD-1625,Pereira,V60,Caturra,6500.0,4,4.0,Medio
+ORD-1626,Pereira,V60,Bourbon,6500.0,1,4.8,Oscuro
+ORD-1627,Medellín,Espresso,Caturra,11000.0,5,4.8,Medio
+ORD-1628,Pereira,V60,Caturra,11000.0,3,4.8,Medio
+ORD-1629,Medellín,Espresso,Geisha,6500.0,4,4.5,Medio
+ORD-1630,Medellín,Chemex,Geisha,7500.0,5,3.0,Claro
+ORD-1631,Bogotá,Aeropress,Bourbon,6500.0,3,4.2,Oscuro
+ORD-1632,Manizales,Aeropress,Castillo,7500.0,4,4.5,Oscuro
+ORD-1633,Medellín,Aeropress,Geisha,11000.0,3,4.2,Oscuro
+ORD-1634,Armenia,Aeropress,Castillo,8500.0,5,5.0,Claro
+ORD-1635,Manizales,Aeropress,Caturra,7500.0,2,4.2,Oscuro
+ORD-1636,Manizales,Aeropress,Geisha,7500.0,5,4.0,Claro
+ORD-1637,Manizales,Aeropress,Bourbon,6500.0,1,4.0,Claro
+ORD-1638,Bogotá,Chemex,Bourbon,7500.0,3,4.2,Oscuro
+ORD-1639,Medellín,V60,Bourbon,9500.0,2,4.5,Medio
+ORD-1640,Bogotá,Prensa Francesa,Geisha,,3,4.8,Medio
+ORD-1641,Medellín,Espresso,Castillo,11000.0,3,4.5,Oscuro
+ORD-1642,Bogotá,Prensa Francesa,Caturra,6500.0,4,4.8,Oscuro
+ORD-1643,Bogotá,Prensa Francesa,Castillo,12500.0,1,5.0,Claro
+ORD-1644,Armenia,V60,Castillo,11000.0,3,4.8,Oscuro
+ORD-1645,Bogotá,V60,Caturra,11000.0,5,3.0,Claro
+ORD-1646,Pereira,V60,Caturra,8500.0,5,4.8,Oscuro
+ORD-1647,Armenia,Aeropress,Geisha,7500.0,4,4.0,Medio
+ORD-1648,Bogotá,Chemex,Geisha,7500.0,1,3.5,Medio
+ORD-1649,Manizales,Aeropress,Geisha,6500.0,1,4.5,Oscuro
+ORD-1650,Pereira,Chemex,Geisha,7500.0,5,4.2,Claro
+ORD-1651,Pereira,Chemex,Geisha,7500.0,2,3.5,Medio
+ORD-1652,Pereira,Prensa Francesa,Caturra,8500.0,4,3.5,Claro
+ORD-1653,Armenia,Prensa Francesa,Castillo,9500.0,4,3.0,Oscuro
+ORD-1654,Bogotá,Chemex,Geisha,8500.0,5,,Oscuro
+ORD-1655,Bogotá,Chemex,Geisha,6500.0,5,3.0,Medio
+ORD-1656,Manizales,Aeropress,Castillo,,2,4.0,Oscuro
+ORD-1657,Manizales,Aeropress,Geisha,,2,4.2,Medio
+ORD-1658,Pereira,Prensa Francesa,Castillo,11000.0,1,4.2,Claro
+ORD-1659,Manizales,V60,Castillo,,4,,Medio
+ORD-1660,Armenia,Chemex,Caturra,8500.0,4,3.0,Medio
+ORD-1661,Bogotá,Aeropress,Bourbon,,5,4.5,Claro
+ORD-1662,Pereira,Prensa Francesa,Caturra,6500.0,1,4.5,Medio
+ORD-1663,Manizales,Aeropress,Bourbon,7500.0,4,,Medio
+ORD-1664,Armenia,Chemex,Bourbon,7500.0,1,4.5,Oscuro
+ORD-1665,Armenia,Chemex,Bourbon,6500.0,1,4.8,Claro
+ORD-1666,Manizales,Espresso,Geisha,6500.0,5,3.5,Medio
+ORD-1667,Bogotá,V60,Caturra,9500.0,1,4.2,Claro
+ORD-1668,Manizales,Espresso,Bourbon,11000.0,2,4.2,Claro
+ORD-1669,Pereira,Prensa Francesa,Castillo,8500.0,2,5.0,Medio
+ORD-1670,Manizales,Aeropress,Geisha,6500.0,3,4.0,Oscuro
+ORD-1671,Armenia,Prensa Francesa,Caturra,11000.0,5,4.0,Claro
+ORD-1672,Manizales,Chemex,Bourbon,9500.0,3,4.2,Medio
+ORD-1673,Bogotá,Espresso,Castillo,7500.0,2,3.5,Claro
+ORD-1674,Medellín,Espresso,Caturra,9500.0,3,4.0,Oscuro
+ORD-1675,Manizales,Espresso,Caturra,7500.0,5,,Oscuro
+ORD-1676,Bogotá,Prensa Francesa,Geisha,7500.0,5,4.2,Oscuro
+ORD-1677,Bogotá,Chemex,Caturra,12500.0,1,4.5,Medio
+ORD-1678,Armenia,Aeropress,Geisha,7500.0,4,4.8,Medio
+ORD-1679,Bogotá,Aeropress,Bourbon,8500.0,1,4.2,Oscuro
+ORD-1680,Bogotá,Prensa Francesa,Geisha,12500.0,5,3.5,Medio
+ORD-1681,Bogotá,Espresso,Castillo,9500.0,2,4.0,Oscuro
+ORD-1682,Bogotá,V60,Geisha,6500.0,2,4.2,Medio
+ORD-1683,Pereira,Prensa Francesa,Castillo,6500.0,1,4.5,Oscuro
+ORD-1684,Pereira,Prensa Francesa,Geisha,6500.0,5,4.2,Claro
+ORD-1685,Armenia,Chemex,Caturra,9500.0,2,3.0,Oscuro
+ORD-1686,Manizales,Aeropress,Bourbon,8500.0,5,4.5,Oscuro
+ORD-1687,Bogotá,Prensa Francesa,Castillo,6500.0,2,,Medio
+ORD-1688,Manizales,Prensa Francesa,Geisha,,5,4.8,Medio
+ORD-1689,Manizales,Espresso,Geisha,8500.0,3,4.8,Medio
+ORD-1690,Armenia,Espresso,Geisha,7500.0,5,4.8,Medio
+ORD-1691,Bogotá,V60,Caturra,8500.0,5,4.2,Medio
+ORD-1692,Bogotá,Chemex,Caturra,9500.0,1,4.8,Medio
+ORD-1693,Medellín,V60,Castillo,6500.0,3,3.5,Claro
+ORD-1694,Manizales,Espresso,Castillo,7500.0,4,4.5,Oscuro
+ORD-1695,Manizales,Aeropress,Caturra,11000.0,1,4.5,Oscuro
+ORD-1696,Pereira,Espresso,Castillo,8500.0,4,3.0,Oscuro
+ORD-1697,Medellín,Chemex,Bourbon,8500.0,2,4.8,Claro
+ORD-1698,Pereira,Espresso,Bourbon,8500.0,4,,Oscuro
+ORD-1699,Pereira,Chemex,Caturra,6500.0,5,4.0,Claro
+ORD-1700,Pereira,Chemex,Castillo,6500.0,4,4.8,Claro
+ORD-1701,Armenia,Chemex,Geisha,8500.0,1,3.5,Claro
+ORD-1702,Armenia,Chemex,Bourbon,7500.0,1,4.5,Oscuro
+ORD-1703,Pereira,Chemex,Caturra,6500.0,4,4.2,Claro
+ORD-1704,Medellín,Aeropress,Castillo,11000.0,1,4.5,Oscuro
+ORD-1705,Manizales,V60,Caturra,,1,,Oscuro
+ORD-1706,Medellín,Prensa Francesa,Geisha,11000.0,4,5.0,Medio
+ORD-1707,Bogotá,V60,Bourbon,12500.0,3,4.8,Medio
+ORD-1708,Armenia,Chemex,Caturra,7500.0,3,4.0,Claro
+ORD-1709,Manizales,Aeropress,Caturra,,2,,Claro
+ORD-1710,Manizales,Espresso,Caturra,6500.0,1,3.5,Oscuro
+ORD-1711,Bogotá,Aeropress,Geisha,,4,5.0,Claro
+ORD-1712,Bogotá,Chemex,Caturra,,1,4.2,Claro
+ORD-1713,Pereira,Aeropress,Geisha,9500.0,5,3.5,Oscuro
+ORD-1714,Armenia,Aeropress,Geisha,,1,4.5,Claro
+ORD-1715,Armenia,Chemex,Geisha,8500.0,1,4.0,Claro
+ORD-1716,Medellín,Aeropress,Bourbon,7500.0,3,4.0,Oscuro
+ORD-1717,Pereira,Prensa Francesa,Bourbon,8500.0,4,4.2,Oscuro
+ORD-1718,Pereira,Prensa Francesa,Caturra,8500.0,1,3.5,Medio
+ORD-1719,Pereira,Aeropress,Caturra,6500.0,3,4.0,Oscuro
+ORD-1720,Pereira,Espresso,Bourbon,9500.0,2,3.0,Medio
+ORD-1721,Armenia,Chemex,Castillo,,3,4.2,Claro
+ORD-1722,Armenia,Prensa Francesa,Bourbon,6500.0,3,3.5,Oscuro
+ORD-1723,Pereira,Espresso,Geisha,11000.0,3,4.5,Oscuro
+ORD-1724,Medellín,Aeropress,Bourbon,12500.0,1,4.0,Oscuro
+ORD-1725,Manizales,Espresso,Geisha,,1,,Claro
+ORD-1726,Manizales,V60,Caturra,,2,5.0,Medio
+ORD-1727,Medellín,Prensa Francesa,Castillo,8500.0,5,4.0,Claro
+ORD-1728,Pereira,Aeropress,Caturra,,5,4.8,Claro
+ORD-1729,Armenia,Chemex,Geisha,11000.0,5,4.8,Oscuro
+ORD-1730,Manizales,Aeropress,Geisha,6500.0,2,,Medio
+ORD-1731,Bogotá,Chemex,Geisha,8500.0,5,4.5,Claro
+ORD-1732,Bogotá,Aeropress,Castillo,9500.0,5,3.5,Oscuro
+ORD-1733,Medellín,Espresso,Bourbon,7500.0,3,4.5,Claro
+ORD-1734,Pereira,Espresso,Caturra,9500.0,1,4.5,Claro
+ORD-1735,Manizales,Espresso,Caturra,9500.0,1,4.5,Oscuro
+ORD-1736,Pereira,V60,Bourbon,6500.0,3,4.2,Oscuro
+ORD-1737,Manizales,Chemex,Caturra,8500.0,3,5.0,Medio
+ORD-1738,Medellín,Espresso,Castillo,11000.0,3,,Claro
+ORD-1739,Medellín,V60,Caturra,8500.0,1,4.0,Oscuro
+ORD-1740,Bogotá,Chemex,Geisha,6500.0,5,3.5,Oscuro
+ORD-1741,Pereira,Aeropress,Bourbon,6500.0,3,4.0,Medio
+ORD-1742,Bogotá,V60,Castillo,7500.0,2,4.8,Medio
+ORD-1743,Pereira,Prensa Francesa,Bourbon,12500.0,3,4.5,Oscuro
+ORD-1744,Bogotá,V60,Castillo,7500.0,4,4.5,Medio
+ORD-1745,Armenia,V60,Geisha,9500.0,3,4.2,Oscuro
+ORD-1746,Armenia,Chemex,Bourbon,7500.0,1,4.5,Claro
+ORD-1747,Armenia,Aeropress,Caturra,7500.0,3,4.2,Medio
+ORD-1748,Armenia,Prensa Francesa,Castillo,11000.0,4,4.2,Claro
+ORD-1749,Manizales,Espresso,Bourbon,9500.0,2,4.8,Claro
+ORD-1750,Armenia,Espresso,Caturra,6500.0,5,,Claro
+ORD-1751,Medellín,V60,Bourbon,8500.0,3,,Oscuro
+ORD-1752,Medellín,Chemex,Bourbon,6500.0,4,,Claro
+ORD-1753,Manizales,Chemex,Bourbon,8500.0,4,4.2,Claro
+ORD-1754,Armenia,Espresso,Castillo,9500.0,2,4.2,Claro
+ORD-1755,Armenia,Prensa Francesa,Caturra,6500.0,1,4.8,Oscuro
+ORD-1756,Armenia,Aeropress,Geisha,7500.0,3,,Claro
+ORD-1757,Bogotá,Prensa Francesa,Castillo,7500.0,4,3.5,Claro
+ORD-1758,Pereira,Aeropress,Castillo,12500.0,2,4.2,Medio
+ORD-1759,Bogotá,Espresso,Castillo,,5,3.5,Oscuro
+ORD-1760,Pereira,Aeropress,Geisha,6500.0,4,4.5,Claro
+ORD-1761,Armenia,Chemex,Caturra,11000.0,2,4.2,Medio
+ORD-1762,Armenia,V60,Caturra,7500.0,1,4.2,Oscuro
+ORD-1763,Bogotá,V60,Caturra,7500.0,1,3.5,Oscuro
+ORD-1764,Bogotá,Espresso,Bourbon,11000.0,4,4.2,Oscuro
+ORD-1765,Pereira,Chemex,Bourbon,12500.0,4,5.0,Oscuro
+ORD-1766,Medellín,Prensa Francesa,Bourbon,,3,4.0,Oscuro
+ORD-1767,Pereira,Chemex,Geisha,8500.0,2,4.5,Oscuro
+ORD-1768,Bogotá,V60,Bourbon,7500.0,4,4.5,Claro
+ORD-1769,Bogotá,V60,Geisha,11000.0,3,5.0,Claro
+ORD-1770,Manizales,Chemex,Caturra,7500.0,3,3.5,Claro
+ORD-1771,Bogotá,Chemex,Bourbon,8500.0,4,,Claro
+ORD-1772,Manizales,V60,Bourbon,7500.0,1,4.5,Medio
+ORD-1773,Medellín,Prensa Francesa,Castillo,9500.0,2,,Claro
+ORD-1774,Pereira,Espresso,Geisha,7500.0,2,,Oscuro
+ORD-1775,Pereira,Espresso,Caturra,6500.0,1,4.0,Claro
+ORD-1776,Manizales,Chemex,Castillo,12500.0,4,3.5,Claro
+ORD-1777,Pereira,Espresso,Castillo,6500.0,2,4.0,Oscuro
+ORD-1778,Bogotá,V60,Caturra,8500.0,4,4.5,Claro
+ORD-1779,Armenia,V60,Castillo,7500.0,4,4.0,Claro
+ORD-1780,Manizales,Chemex,Geisha,6500.0,3,4.0,Claro
+ORD-1781,Pereira,Chemex,Geisha,6500.0,1,4.2,Medio
+ORD-1782,Manizales,Chemex,Bourbon,6500.0,4,3.0,Claro
+ORD-1783,Manizales,Prensa Francesa,Castillo,12500.0,5,3.5,Oscuro
+ORD-1784,Armenia,Espresso,Bourbon,7500.0,1,4.2,Oscuro
+ORD-1785,Bogotá,Chemex,Castillo,,2,3.5,Claro
+ORD-1786,Manizales,Aeropress,Geisha,8500.0,3,4.2,Claro
+ORD-1787,Pereira,Aeropress,Geisha,8500.0,2,4.2,Claro
+ORD-1788,Medellín,V60,Geisha,8500.0,2,4.2,Oscuro
+ORD-1789,Manizales,Espresso,Castillo,8500.0,1,5.0,Oscuro
+ORD-1790,Manizales,Chemex,Geisha,11000.0,2,4.5,Medio
+ORD-1791,Armenia,Aeropress,Castillo,7500.0,4,4.2,Medio
+ORD-1792,Bogotá,Espresso,Bourbon,7500.0,2,4.2,Medio
+ORD-1793,Medellín,V60,Castillo,12500.0,3,4.8,Oscuro
+ORD-1794,Pereira,Prensa Francesa,Bourbon,,3,5.0,Medio
+ORD-1795,Medellín,Espresso,Castillo,12500.0,5,5.0,Claro
+ORD-1796,Pereira,Espresso,Bourbon,8500.0,3,4.5,Claro
+ORD-1797,Bogotá,Prensa Francesa,Geisha,11000.0,2,3.5,Oscuro
+ORD-1798,Pereira,Espresso,Bourbon,8500.0,3,4.0,Medio
+ORD-1799,Armenia,V60,Geisha,8500.0,1,3.0,Claro
+ORD-1800,Armenia,V60,Geisha,7500.0,3,,Oscuro
+ORD-1801,Armenia,Prensa Francesa,Bourbon,8500.0,4,4.5,Medio
+ORD-1802,Armenia,Chemex,Castillo,6500.0,1,4.8,Claro
+ORD-1803,Medellín,Aeropress,Castillo,7500.0,5,4.2,Medio
+ORD-1804,Bogotá,Chemex,Caturra,12500.0,4,4.8,Oscuro
+ORD-1805,Pereira,Espresso,Castillo,7500.0,2,4.0,Medio
+ORD-1806,Pereira,Aeropress,Caturra,6500.0,2,3.0,Oscuro
+ORD-1807,Armenia,Prensa Francesa,Castillo,6500.0,2,4.2,Medio
+ORD-1808,Armenia,Prensa Francesa,Castillo,,4,4.5,Claro
+ORD-1809,Manizales,Aeropress,Geisha,8500.0,4,4.2,Oscuro
+ORD-1810,Bogotá,V60,Caturra,8500.0,4,5.0,Oscuro
+ORD-1811,Medellín,Aeropress,Castillo,11000.0,1,3.5,Oscuro
+ORD-1812,Pereira,Espresso,Caturra,11000.0,1,4.5,Medio
+ORD-1813,Manizales,V60,Geisha,7500.0,2,4.5,Medio
+ORD-1814,Manizales,Prensa Francesa,Geisha,9500.0,3,4.0,Claro
+ORD-1815,Pereira,Aeropress,Caturra,11000.0,2,4.8,Oscuro
+ORD-1816,Medellín,Chemex,Geisha,9500.0,5,4.8,Oscuro
+ORD-1817,Manizales,Chemex,Bourbon,6500.0,1,4.8,Medio
+ORD-1818,Manizales,Espresso,Bourbon,12500.0,4,5.0,Medio
+ORD-1819,Bogotá,Chemex,Geisha,8500.0,1,4.8,Claro
+ORD-1820,Medellín,Aeropress,Bourbon,7500.0,4,4.0,Claro
+ORD-1821,Manizales,Aeropress,Castillo,8500.0,5,4.8,Medio
+ORD-1822,Medellín,Chemex,Caturra,6500.0,5,4.2,Oscuro
+ORD-1823,Pereira,Aeropress,Castillo,6500.0,1,4.0,Claro
+ORD-1824,Armenia,Espresso,Caturra,11000.0,4,3.5,Medio
+ORD-1825,Manizales,V60,Geisha,6500.0,5,4.8,Medio
+ORD-1826,Bogotá,Espresso,Castillo,8500.0,2,4.8,Oscuro
+ORD-1827,Pereira,Espresso,Geisha,8500.0,2,4.0,Medio
+ORD-1828,Medellín,Aeropress,Geisha,6500.0,4,4.8,Medio
+ORD-1829,Pereira,V60,Caturra,,1,,Claro
+ORD-1830,Manizales,Aeropress,Caturra,7500.0,5,3.5,Medio
+ORD-1831,Medellín,Prensa Francesa,Caturra,7500.0,1,4.0,Medio
+ORD-1832,Armenia,Aeropress,Castillo,7500.0,2,4.8,Claro
+ORD-1833,Pereira,Aeropress,Bourbon,7500.0,5,4.0,Oscuro
+ORD-1834,Manizales,Aeropress,Caturra,6500.0,1,4.5,Oscuro
+ORD-1835,Bogotá,V60,Caturra,9500.0,3,3.5,Claro
+ORD-1836,Medellín,Aeropress,Castillo,,4,4.2,Claro
+ORD-1837,Pereira,V60,Caturra,7500.0,4,4.8,Oscuro
+ORD-1838,Pereira,Chemex,Castillo,9500.0,3,4.5,Oscuro
+ORD-1839,Armenia,Prensa Francesa,Geisha,9500.0,2,4.8,Oscuro
+ORD-1840,Armenia,V60,Caturra,11000.0,5,5.0,Oscuro
+ORD-1841,Bogotá,Chemex,Caturra,8500.0,4,4.8,Oscuro
+ORD-1842,Bogotá,V60,Geisha,7500.0,3,4.5,Claro
+ORD-1843,Manizales,V60,Geisha,7500.0,3,3.0,Medio
+ORD-1844,Manizales,Prensa Francesa,Geisha,9500.0,2,4.5,Oscuro
+ORD-1845,Bogotá,Espresso,Caturra,11000.0,2,3.0,Oscuro
+ORD-1846,Bogotá,Espresso,Bourbon,6500.0,1,4.8,Medio
+ORD-1847,Medellín,V60,Bourbon,7500.0,4,4.2,Medio
+ORD-1848,Armenia,Aeropress,Bourbon,12500.0,1,4.5,Medio
+ORD-1849,Manizales,Chemex,Caturra,11000.0,3,4.0,Medio
+ORD-1850,Armenia,Aeropress,Geisha,,5,4.8,Medio
+ORD-1851,Armenia,Aeropress,Caturra,11000.0,5,5.0,Medio
+ORD-1852,Bogotá,V60,Geisha,7500.0,2,4.2,Claro
+ORD-1853,Medellín,V60,Caturra,8500.0,5,5.0,Medio
+ORD-1854,Pereira,V60,Caturra,9500.0,5,4.0,Medio
+ORD-1855,Medellín,V60,Geisha,6500.0,5,4.5,Claro
+ORD-1856,Medellín,Espresso,Bourbon,8500.0,3,5.0,Medio
+ORD-1857,Armenia,V60,Geisha,9500.0,5,4.2,Oscuro
+ORD-1858,Medellín,Espresso,Castillo,6500.0,5,,Oscuro
+ORD-1859,Manizales,Espresso,Castillo,11000.0,5,3.5,Medio
+ORD-1860,Armenia,V60,Geisha,8500.0,1,3.0,Claro
+ORD-1861,Manizales,Prensa Francesa,Caturra,,3,,Oscuro
+ORD-1862,Pereira,Chemex,Castillo,6500.0,2,3.5,Claro
+ORD-1863,Armenia,Aeropress,Castillo,7500.0,1,,Oscuro
+ORD-1864,Pereira,Espresso,Caturra,9500.0,4,,Medio
+ORD-1865,Armenia,Chemex,Caturra,7500.0,3,3.5,Claro
+ORD-1866,Bogotá,Prensa Francesa,Bourbon,9500.0,3,4.5,Claro
+ORD-1867,Medellín,Aeropress,Caturra,11000.0,4,4.0,Claro
+ORD-1868,Bogotá,Aeropress,Geisha,6500.0,4,4.2,Oscuro
+ORD-1869,Pereira,Espresso,Geisha,8500.0,4,3.5,Oscuro
+ORD-1870,Medellín,V60,Bourbon,8500.0,2,4.0,Oscuro
+ORD-1871,Armenia,Prensa Francesa,Castillo,7500.0,5,4.2,Medio
+ORD-1872,Medellín,Espresso,Castillo,,3,4.2,Oscuro
+ORD-1873,Manizales,Prensa Francesa,Caturra,11000.0,5,,Medio
+ORD-1874,Medellín,V60,Geisha,9500.0,5,4.8,Claro
+ORD-1875,Manizales,V60,Castillo,9500.0,4,4.8,Claro
+ORD-1876,Medellín,Espresso,Bourbon,8500.0,2,4.5,Medio
+ORD-1877,Manizales,V60,Bourbon,12500.0,1,4.8,Oscuro
+ORD-1878,Pereira,Chemex,Geisha,9500.0,2,4.2,Medio
+ORD-1879,Bogotá,Aeropress,Bourbon,9500.0,5,4.8,Claro
+ORD-1880,Armenia,Espresso,Bourbon,12500.0,2,,Claro
+ORD-1881,Medellín,Prensa Francesa,Geisha,7500.0,4,4.2,Medio
+ORD-1882,Bogotá,Chemex,Caturra,11000.0,1,4.5,Oscuro
+ORD-1883,Armenia,Espresso,Caturra,6500.0,4,4.8,Oscuro
+ORD-1884,Armenia,V60,Bourbon,7500.0,1,,Medio
+ORD-1885,Manizales,V60,Caturra,7500.0,5,4.8,Medio
+ORD-1886,Pereira,V60,Caturra,,1,4.0,Oscuro
+ORD-1887,Pereira,V60,Bourbon,12500.0,1,4.2,Claro
+ORD-1888,Bogotá,Prensa Francesa,Caturra,9500.0,1,3.0,Medio
+ORD-1889,Pereira,Chemex,Bourbon,9500.0,2,4.8,Oscuro
+ORD-1890,Medellín,Aeropress,Castillo,8500.0,2,3.0,Oscuro
+ORD-1891,Pereira,Prensa Francesa,Geisha,,5,5.0,Claro
+ORD-1892,Bogotá,Prensa Francesa,Geisha,8500.0,1,3.5,Claro
+ORD-1893,Pereira,Aeropress,Caturra,7500.0,3,4.0,Claro
+ORD-1894,Medellín,Aeropress,Caturra,6500.0,5,4.2,Claro
+ORD-1895,Manizales,V60,Caturra,11000.0,1,4.8,Claro
+ORD-1896,Bogotá,Prensa Francesa,Geisha,9500.0,1,3.5,Medio
+ORD-1897,Manizales,Espresso,Castillo,7500.0,2,4.2,Oscuro
+ORD-1898,Manizales,Aeropress,Castillo,6500.0,5,4.2,Medio
+ORD-1899,Manizales,Aeropress,Geisha,11000.0,1,4.0,Medio
+ORD-1900,Armenia,Chemex,Castillo,6500.0,1,3.5,Medio
+ORD-1901,Armenia,Espresso,Geisha,9500.0,5,4.8,Medio
+ORD-1902,Manizales,Espresso,Castillo,,3,4.5,Medio
+ORD-1903,Bogotá,Aeropress,Bourbon,8500.0,5,3.0,Claro
+ORD-1904,Medellín,V60,Bourbon,7500.0,5,4.8,Claro
+ORD-1905,Medellín,Chemex,Geisha,9500.0,3,,Oscuro
+ORD-1906,Pereira,Espresso,Castillo,11000.0,5,4.5,Medio
+ORD-1907,Bogotá,Aeropress,Caturra,8500.0,1,4.5,Oscuro
+ORD-1908,Armenia,Espresso,Castillo,,5,5.0,Claro
+ORD-1909,Manizales,Chemex,Bourbon,6500.0,3,,Claro
+ORD-1910,Pereira,Chemex,Bourbon,8500.0,4,4.8,Claro
+ORD-1911,Medellín,Prensa Francesa,Castillo,9500.0,5,4.2,Medio
+ORD-1912,Armenia,Aeropress,Castillo,12500.0,2,4.5,Medio
+ORD-1913,Armenia,Chemex,Caturra,6500.0,1,4.8,Claro
+ORD-1914,Manizales,Prensa Francesa,Caturra,11000.0,1,4.0,Oscuro
+ORD-1915,Medellín,Prensa Francesa,Castillo,8500.0,2,4.2,Oscuro
+ORD-1916,Bogotá,Espresso,Castillo,7500.0,2,4.8,Claro
+ORD-1917,Armenia,Espresso,Castillo,6500.0,5,4.5,Oscuro
+ORD-1918,Manizales,Prensa Francesa,Castillo,12500.0,2,4.2,Claro
+ORD-1919,Bogotá,Espresso,Geisha,6500.0,4,4.5,Oscuro
+ORD-1920,Medellín,Chemex,Castillo,7500.0,3,3.5,Claro
+ORD-1921,Armenia,V60,Caturra,7500.0,2,4.2,Oscuro
+ORD-1922,Bogotá,Chemex,Bourbon,12500.0,2,4.8,Medio
+ORD-1923,Bogotá,Prensa Francesa,Geisha,9500.0,4,4.0,Claro
+ORD-1924,Bogotá,Prensa Francesa,Castillo,11000.0,1,4.0,Claro
+ORD-1925,Armenia,Chemex,Bourbon,7500.0,1,,Oscuro
+ORD-1926,Armenia,Espresso,Geisha,9500.0,5,4.0,Claro
+ORD-1927,Pereira,Espresso,Bourbon,8500.0,4,4.0,Claro
+ORD-1928,Medellín,Prensa Francesa,Castillo,11000.0,3,,Claro
+ORD-1929,Manizales,Aeropress,Castillo,12500.0,3,4.8,Medio
+ORD-1930,Bogotá,Espresso,Caturra,6500.0,4,4.5,Medio
+ORD-1931,Pereira,Chemex,Castillo,9500.0,3,5.0,Oscuro
+ORD-1932,Manizales,Espresso,Castillo,6500.0,1,3.5,Medio
+ORD-1933,Pereira,Chemex,Geisha,8500.0,3,4.8,Oscuro
+ORD-1934,Armenia,Prensa Francesa,Caturra,7500.0,3,4.5,Medio
+ORD-1935,Bogotá,Espresso,Geisha,7500.0,4,4.8,Oscuro
+ORD-1936,Manizales,Chemex,Bourbon,7500.0,4,4.5,Medio
+ORD-1937,Manizales,Prensa Francesa,Castillo,9500.0,3,4.5,Medio
+ORD-1938,Manizales,Aeropress,Bourbon,7500.0,2,4.2,Oscuro
+ORD-1939,Manizales,Chemex,Geisha,9500.0,4,4.2,Claro
+ORD-1940,Manizales,Aeropress,Castillo,8500.0,5,4.8,Claro
+ORD-1941,Pereira,Aeropress,Castillo,6500.0,5,4.5,Medio
+ORD-1942,Bogotá,V60,Geisha,11000.0,1,4.5,Oscuro
+ORD-1943,Armenia,Espresso,Geisha,7500.0,3,4.2,Claro
+ORD-1944,Armenia,Chemex,Geisha,8500.0,2,4.5,Oscuro
+ORD-1945,Armenia,Aeropress,Geisha,9500.0,1,4.8,Claro
+ORD-1946,Armenia,V60,Geisha,7500.0,3,4.8,Oscuro
+ORD-1947,Pereira,Prensa Francesa,Castillo,6500.0,4,4.5,Medio
+ORD-1948,Medellín,Chemex,Geisha,7500.0,5,,Oscuro
+ORD-1949,Bogotá,Aeropress,Castillo,,2,4.8,Claro
+ORD-1950,Manizales,Espresso,Castillo,9500.0,5,4.5,Medio
+ORD-1951,Medellín,V60,Geisha,9500.0,4,4.5,Oscuro
+ORD-1952,Armenia,Aeropress,Geisha,9500.0,3,,Claro
+ORD-1953,Medellín,Espresso,Caturra,6500.0,4,4.5,Medio
+ORD-1954,Bogotá,Aeropress,Castillo,8500.0,4,4.8,Oscuro
+ORD-1955,Manizales,Chemex,Geisha,11000.0,5,4.5,Claro
+ORD-1956,Manizales,Chemex,Geisha,6500.0,2,4.5,Oscuro
+ORD-1957,Bogotá,Chemex,Geisha,7500.0,4,4.0,Oscuro
+ORD-1958,Bogotá,V60,Caturra,7500.0,5,4.2,Medio
+ORD-1959,Armenia,Chemex,Caturra,8500.0,2,,Medio
+ORD-1960,Manizales,Espresso,Bourbon,,3,4.5,Claro
+ORD-1961,Medellín,Aeropress,Castillo,6500.0,3,4.5,Medio
+ORD-1962,Pereira,Prensa Francesa,Bourbon,8500.0,1,,Claro
+ORD-1963,Pereira,Espresso,Geisha,6500.0,5,4.5,Oscuro
+ORD-1964,Bogotá,Espresso,Caturra,,2,4.5,Oscuro
+ORD-1965,Armenia,Chemex,Caturra,6500.0,4,4.8,Claro
+ORD-1966,Pereira,V60,Bourbon,8500.0,3,4.8,Oscuro
+ORD-1967,Manizales,Aeropress,Caturra,9500.0,2,4.0,Medio
+ORD-1968,Bogotá,V60,Geisha,9500.0,5,4.2,Oscuro
+ORD-1969,Medellín,Aeropress,Caturra,8500.0,1,4.2,Medio
+ORD-1970,Bogotá,Aeropress,Bourbon,7500.0,3,4.2,Claro
+ORD-1971,Medellín,V60,Geisha,7500.0,2,4.5,Claro
+ORD-1972,Bogotá,Espresso,Bourbon,7500.0,2,4.2,Oscuro
+ORD-1973,Bogotá,Aeropress,Caturra,7500.0,2,4.0,Oscuro
+ORD-1974,Bogotá,V60,Bourbon,8500.0,5,4.2,Medio
+ORD-1975,Medellín,Aeropress,Bourbon,7500.0,5,3.5,Medio
+ORD-1976,Medellín,Prensa Francesa,Castillo,7500.0,5,4.5,Oscuro
+ORD-1977,Bogotá,Espresso,Caturra,9500.0,4,5.0,Oscuro
+ORD-1978,Pereira,Chemex,Caturra,,2,4.8,Claro
+ORD-1979,Armenia,Aeropress,Bourbon,9500.0,3,4.2,Claro
+ORD-1980,Armenia,Prensa Francesa,Castillo,6500.0,5,3.5,Claro
+ORD-1981,Armenia,Chemex,Caturra,6500.0,5,4.0,Oscuro
+ORD-1982,Medellín,Chemex,Geisha,,2,4.5,Oscuro
+ORD-1983,Medellín,Aeropress,Bourbon,7500.0,5,4.0,Oscuro
+ORD-1984,Pereira,V60,Caturra,6500.0,4,4.5,Claro
+ORD-1985,Armenia,Aeropress,Geisha,8500.0,4,4.0,Oscuro
+ORD-1986,Armenia,Prensa Francesa,Caturra,9500.0,5,4.8,Medio
+ORD-1987,Bogotá,Chemex,Geisha,9500.0,2,4.2,Oscuro
+ORD-1988,Medellín,Aeropress,Bourbon,7500.0,2,4.0,Oscuro
+ORD-1989,Armenia,V60,Caturra,6500.0,2,4.8,Oscuro
+ORD-1990,Pereira,Aeropress,Caturra,,1,4.2,Oscuro
+ORD-1991,Pereira,Espresso,Castillo,7500.0,5,3.5,Oscuro
+ORD-1992,Armenia,V60,Bourbon,9500.0,2,4.5,Medio
+ORD-1993,Medellín,Prensa Francesa,Geisha,9500.0,4,4.5,Medio
+ORD-1994,Pereira,Chemex,Caturra,9500.0,3,4.8,Oscuro
+ORD-1995,Bogotá,Aeropress,Caturra,7500.0,3,4.0,Claro
+ORD-1996,Pereira,V60,Geisha,7500.0,2,4.2,Oscuro
+ORD-1997,Manizales,Espresso,Bourbon,8500.0,3,4.0,Oscuro
+ORD-1998,Manizales,V60,Castillo,12500.0,3,3.5,Oscuro
+ORD-1999,Medellín,Espresso,Castillo,,1,5.0,Claro
+ORD-2000,Armenia,Prensa Francesa,Caturra,6500.0,4,4.8,Claro
+ORD-1011,Medellín,V60,Geisha,11000.0,4,4.8,Oscuro
+ORD-1012,Armenia,Prensa Francesa,Castillo,7500.0,1,,Oscuro
+ORD-1013,Bogotá,Espresso,Geisha,11000.0,1,4.0,Oscuro
+ORD-1014,Pereira,V60,Caturra,,5,4.2,Medio
+ORD-1015,Medellín,Prensa Francesa,Bourbon,7500.0,4,4.2,Medio
+ORD-1016,Pereira,V60,Bourbon,8500.0,1,4.2,Oscuro
+ORD-1017,Medellín,Espresso,Castillo,7500.0,1,4.0,Oscuro
+ORD-1018,Bogotá,Espresso,Geisha,11000.0,4,3.5,Oscuro
